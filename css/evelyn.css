@@ -1,0 +1,37 @@
+body{
+	margin:50;
+	font-family: 'Noto Serif', serif;
+}
+
+header{
+	background-color:forestgreen;
+	text-align: center;
+	font-size: 50px;
+	border-radius: 50px;
+
+}
+
+h1{
+	color: honeydew;
+	font-size: 30px;
+}
+
+h2{
+	color: forestgreen;
+}
+
+a{
+	color: darkred;
+
+}
+
+a:hover{
+	background-color: whitesmoke;
+	color: black;
+}
+
+p{
+color: black;
+font-size: 15px;
+margin: 20;
+}
